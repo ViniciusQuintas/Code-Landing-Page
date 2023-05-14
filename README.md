@@ -1,6 +1,6 @@
 # Code Landing Page
 
-Bem-vindo à página inicial da Code Landing! Esta página foi criada como uma landing page para uma empresa de tecnologia fictícia que fornece serviços de programação.
+Bem-vindo à página inicial da Code! Esta página foi criada como uma landing page para uma empresa de tecnologia fictícia que fornece serviços de programação.
 
 ![page](screenshots/page.png)
 
@@ -10,10 +10,10 @@ Esta página possui os seguintes recursos:
 - Design responsivo que se adapta a diferentes tamanhos de tela.
 - Barra de navegação com links para diferentes seções da página.
 - Seção Features que destaca as principais funcionalidades que a empresa oferece. Cada recurso é acompanhado por um ícone e uma breve descrição
-- Seção About com informações sobre a Code Landing Page.
+- Seção About com informações sobre a Code.
 - Seção FAQ com uma lista de perguntas e respostas comuns sobre a empresa e seus serviços. 
-- Seção Profiles com informações sobre algumas das pessoas que trabalham na Code Landing Page.
-- Seção Contact com um formulário para entrar em contato com a Code Landing Page.
+- Seção Profiles com informações sobre algumas das pessoas que trabalham na Code.
+- Seção Contact com um formulário para entrar em contato com a Code.
 
 # Tecnologias
 Esta página foi construída utilizando as seguintes tecnologias:
