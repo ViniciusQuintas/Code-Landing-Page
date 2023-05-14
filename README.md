@@ -5,7 +5,7 @@ Bem-vindo à página inicial da Code Landing! Esta página foi criada como uma l
 ![page](screenshots/page.png)
 
 # Recursos
-Esta página inicial possui os seguintes recursos:
+Esta página possui os seguintes recursos:
 
 - Design responsivo que se adapta a diferentes tamanhos de tela.
 - Barra de navegação com links para diferentes seções da página.
