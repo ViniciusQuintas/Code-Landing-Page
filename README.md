@@ -36,3 +36,25 @@ Para utilizar a Code Landing Page na sua máquina siga os seguintes passos:
   cd Code-Landing-Page
 ```
 - Agora, abra o arquivo index.html no seu navegador para visualizar a Code Landing Page em ação.
+
+# Contribuição
+Se você deseja contribuir para o desenvolvimento Code Landing page, siga os seguintes passos:
+
+1️⃣ Faça um fork deste repositório. 
+<br>
+<br>
+2️⃣ Crie uma nova branch para sua contribuição. 
+<br>
+<br>
+3️⃣ Faça suas alterações no código. 
+<br>
+<br>
+4️⃣  Certifique-se de que suas alterações não quebram o funcionamento existente da página. 
+<br>
+<br>
+5️⃣ Faça um pull request com suas alterações. 
+<br>
+<br>
+
+# Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
